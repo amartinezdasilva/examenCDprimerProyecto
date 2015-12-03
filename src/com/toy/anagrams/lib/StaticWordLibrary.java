@@ -38,7 +38,7 @@ package com.toy.anagrams.lib;
  * Implementation of the logic for the Anagram Game application.
  */
 final class StaticWordLibrary extends WordLibrary {
-
+    String segundoCommit;
     private static final String[] WORD_LIST = {
         "abstraction",
         "ambiguous",
@@ -132,7 +132,8 @@ final class StaticWordLibrary extends WordLibrary {
         "evtrxe",
         "nuisngde",
         "rtdatioialn",
-        "commit numero uno de este examen",    
+        "commit numero uno de este examen", 
+        
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
