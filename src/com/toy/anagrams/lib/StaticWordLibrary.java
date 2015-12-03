@@ -40,7 +40,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
     String segundoCommit;
     private static final String[] WORD_LIST = {
-        
+        "commit final del proyecto",
         "ambiguous",
         "arithmetic",
         "backslash",
