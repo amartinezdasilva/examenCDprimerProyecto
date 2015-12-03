@@ -131,7 +131,8 @@ final class StaticWordLibrary extends WordLibrary {
         "ohjtvaa",
         "evtrxe",
         "nuisngde",
-        "rtdatioialn"
+        "rtdatioialn",
+        "commit numero uno de este examen",    
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
